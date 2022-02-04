@@ -1,6 +1,6 @@
 # Frontend Mentor - Order summary card
 
-![Design preview for the Order summary card coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Order summary card coding challenge](https://github.com/fernando5498/Resumen-de-recibo/blob/main/assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
 
