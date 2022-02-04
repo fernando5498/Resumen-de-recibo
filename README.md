@@ -1,5 +1,9 @@
 # Frontend Mentor - Order summary card
 
+Mi solucion propuesta https://resumendeorden.netlify.app/
+
+Link del reto https://www.frontendmentor.io/solutions/tarjeta-de-resumen-de-pedido-con-html-y-css-boiTegw-C
+
 ![Design preview for the Order summary card coding challenge](https://github.com/fernando5498/Resumen-de-recibo/blob/main/assets/design/desktop-preview.jpg)
 
 ## Welcome! 👋
