@@ -12,6 +12,8 @@
 
 body {
     font-family: 'Outfit', sans-serif;
+    background-image: url(../images/pattern-background-desktop.svg);
+    background: var(--pale-blue) no-repeat;
 }
 
 :root {
@@ -28,8 +30,6 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: var(--pale-blue) no-repeat;
-    background-image: url(../images/pattern-background-desktop.svg);
 }
 
 .card {
@@ -119,6 +119,10 @@ main {
     text-decoration: none;
 }
 
+.card__btn {
+    box-shadow: 0px 20px 30px -10px #776cf165;
+}
+
 .card__btn--cancel {
     color: var(--desaturated-blue);
     background: transparent;
@@ -129,7 +133,7 @@ main {
 }
 
 @media (max-width:375px) {
-    main {
+    body {
         background-image: url(../images/pattern-background-mobile.svg);
     }
     .card {
