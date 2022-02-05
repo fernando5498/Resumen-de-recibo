@@ -37,6 +37,7 @@ main {
     flex-direction: column;
     height: 700px;
     width: 450px;
+    margin-top: 30px;
     background: white;
     border-radius: 20px;
     -webkit-border-radius: 20px;
